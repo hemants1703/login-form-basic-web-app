@@ -1,5 +1,5 @@
 # login-form-basic-web-app
-A Basic Web Application that displays your form input data rendered on the website
+A Basic Web Application that displays your form input data rendered on the website and in the terminal as JSON
 
 # To run the app
 1. First open terminal at the directory and run the code ```npm i```
