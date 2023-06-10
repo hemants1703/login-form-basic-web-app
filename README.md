@@ -3,7 +3,7 @@ A Basic Web Application that displays your form input data rendered on the websi
 
 # To run the app
 1. First open terminal at the directory and run the code ```npm i```
-2. The code will install all the dependencies in the project and the node_modules 
+2. The code will install all the dependencies in the project and the ```node_modules```
 3. After the installation is finished, run the command - ```node app.js```
 4. Go to your browser and copy paste this link - ```http://localhost:3000```
 5. The web app will start running.
